@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9435" started-at="2020-02-19T02:17:29Z" finished-at="2020-02-19T02:17:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9435" started-at="2020-02-19T02:17:29Z" finished-at="2020-02-19T02:17:38Z">
+      <class name="Selenium.java.testng.FirstTestNG">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Selenium.java.testng.FirstTestNG@4520ebad]" name="beforeTest" is-config="true" duration-ms="15" started-at="2020-02-18T20:17:29Z" finished-at="2020-02-18T20:17:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="MyFirstTestcase()[pri:0, instance:Selenium.java.testng.FirstTestNG@4520ebad]" name="MyFirstTestcase" duration-ms="9387" started-at="2020-02-18T20:17:29Z" finished-at="2020-02-18T20:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyFirstTestcase -->
+        <test-method status="PASS" signature="MySecondTestcase()[pri:0, instance:Selenium.java.testng.FirstTestNG@4520ebad]" name="MySecondTestcase" duration-ms="2" started-at="2020-02-18T20:17:38Z" finished-at="2020-02-18T20:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySecondTestcase -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Selenium.java.testng.FirstTestNG@4520ebad]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-02-18T20:17:38Z" finished-at="2020-02-18T20:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Selenium.java.testng.FirstTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
